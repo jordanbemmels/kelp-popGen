@@ -1,6 +1,6 @@
 # GERP
 
-These are helper scripts useful to assist with Genomic Evolutionary Rate Profiling (GERP).
+These are helper scripts to assist with Genomic Evolutionary Rate Profiling (GERP).
 
 ### brownAlgaeAlignments_splitByScaffold.R
 
