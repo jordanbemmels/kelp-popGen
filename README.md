@@ -6,11 +6,10 @@ There was no substantial new program or software developed for this manuscript; 
 
 The pages and documents in this repository were developed by Jordan Bemmels (jbemmels@uvic.ca) unless otherwise specified.
 
-
 For data and resources:
 
-https://github.com/jordanbemmels/kelp-popGen/data
+https://github.com/jordanbemmels/kelp-popGen/tree/main/data
 
 For scripts
 
-https://github.com/jordanbemmels/kelp-popGen/scripts
+https://github.com/jordanbemmels/kelp-popGen/tree/main/scripts
