@@ -14,5 +14,8 @@ Taylor, R.S., Manseau, M., Keobouasone, S., Liu, P., Mastromonaco, G., Solmundso
 
 ### get_ancestralDerived.R
 
-This R-script determines which allele is ancestral vs. derived.
+This R-script determines which allele is ancestral vs. derived, based on alignments of outgroup reference genomes to the focal species.
 
+### get_derivedAlleleFreqs.R
+
+This R-script calculates the derived allele frequencies globally, per population, and per individual, based on a VCF of genotypes of all individuals of the focal species.
