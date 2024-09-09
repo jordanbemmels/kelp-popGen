@@ -14,3 +14,7 @@ https://github.com/BeckySTaylor/Phylogenomic_Analyses/blob/main/GERP_running
 
 Taylor, R.S., Manseau, M., Keobouasone, S., Liu, P., Mastromonaco, G., Solmundson, K., Kelly, A., Larter, N.C., Gamberg, M., Schwantje, H., et al. (2024). High genetic load without purging in caribou, a diverse species at risk. *Curr. Biol.* 34, 1234-1246.e7. https://doi.org/10.1016/j.cub.2024.02.002.
 
+### get_ancestralDerived.R
+
+This R-script determines which allele is ancestral vs. derived.
+
