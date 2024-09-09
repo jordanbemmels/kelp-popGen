@@ -6,6 +6,6 @@ Note that some small areas of the rasters have been modified by hand to convert 
 
 Rasters were generated from a polygon of the BC and partial Washington coastline:
 
-GeoBranch BC. 2002. NTS BC Coastline Polygons 1:250,000 - Digital Baseline Mapping (NTS). British Columbia Data Catalogue. Downloaded from [https://catalogue.data.gov.bc.ca/dataset/nts-bc-coastline-polygons-1-250-000-digital-baseline-mapping-nts](https://catalogue.data.gov.bc.ca/dataset/nts-bc-coastline-polygons-1-250-000-digital-baseline-mapping-nts) \[accessed 2022/06/21\].
+GeoBranch BC. 2002. NTS BC Coastline Polygons 1:250,000 - Digital Baseline Mapping (NTS). *British Columbia Data Catalogue.* Downloaded from [https://catalogue.data.gov.bc.ca/dataset/nts-bc-coastline-polygons-1-250-000-digital-baseline-mapping-nts](https://catalogue.data.gov.bc.ca/dataset/nts-bc-coastline-polygons-1-250-000-digital-baseline-mapping-nts) \[accessed 2022/06/21\].
 
 A derivative product of the original polygons is being reposted here in accordance with an [Open Government License - Canada v.2.0](https://open.canada.ca/en/open-government-licence-canada).
