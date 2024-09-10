@@ -8,4 +8,4 @@ This *R* script identifies regions of the genome that are in ROHets for each pop
 
 ### mask_ROHets.R
 
-This *R* script creates a mask to exclude windows that are found in ROHets more frequently (across all individuals) than the 99.99th percentile expectation.
+This *R* script creates a mask to exclude windows that are found in ROHets more frequently (across all individuals) than the 99.99th percentile expectation. The mask can then be used to re-run *bcftools roh*.
