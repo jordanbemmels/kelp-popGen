@@ -1,4 +1,4 @@
-##### Script is to calculate derived allele frequencies overall and by population, to facilitate predictions of purging and genetic drift. This script processes the SnpEff analysis, and divides the sites into modifier and low-, medium-, and high-impact sites. #####
+##### Script is to calculate derived allele frequencies overall and by population, to facilitate predictions of purging and genetic drift. This script processes the SnpEff analysis, and divides the sites into modifier and low-, moderate-, and high-impact sites. #####
 
 # Author use only: GitHub version derived from Part I only (population-level analysis) from version Anc1 of KL14 SnpEff script analyzeOutput_snpEff_KL14_KRI_ancestralGERP_vAnc1.R, 2024/09/10;
 
