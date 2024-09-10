@@ -6,3 +6,6 @@ These scripts are to identify Runs of Heterozygosity (ROHets), not to be confuse
 
 This *R* script identifies regions of the genome that are in ROHets for each population.
 
+### mask_ROHets.R
+
+This *R* script creates a mask to exclude windows that are found in ROHets more frequently (across all individuals) than the 99.99th percentile expectation.
