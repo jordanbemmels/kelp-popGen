@@ -18,6 +18,7 @@ system("mkdir byScaffold/GERP_formatted", intern = F);
 # load a list of all brown algage species that have been individually aligned to the focal species' reference genome;
 # the retained species list is a text file, with one species per line;
 # this assumes that the alignments for each brown algae species are in the current working directory and named like "species01_filtered_sorted.fasta", "species02_filtered_sorted.fasta", etc.;
+# note that to reduce bias in assessing number of missing subsitutions for GERP score calculation, the focal species' genome should not be included in this list and is deliberately not outputted in the output file of this code;
 allSpp <- read.table(pathToRetainedSpeciesList, sep = "\t", header = F, stringsAsFactors = F);
 
 # load a list of the autosomal scaffolds from the focal species' genome, one scaffold per line;
