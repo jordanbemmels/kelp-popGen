@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/854745207.svg)](https://doi.org/10.5281/zenodo.14454932)
+
 This repository contains custom scripts and files for the manuscript:
 
 Bemmels, J.B., S. Starko, B.L. Weigel, K. Hirabayashi, A. Pinch, C. Elphinstone, M.N. Dethier, L.H. Rieseberg, J.E. Page, C.J. Neufeld, G.L. Owens. 2025. Population genomics reveals strong impacts of genetic drift without purging and guides conservation of bull and giant kelp. <i>Current Biology</i>, in press.
