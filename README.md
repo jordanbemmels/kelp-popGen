@@ -6,7 +6,7 @@ There was no substantial new program or software developed for this manuscript; 
 
 See the readme files in the subdirectories (contents also pasted below) for further info about the subdirectory contents.
 
-The pages and documents in this repository were developed by Jordan Bemmels (jbemmels@uvic.ca) unless otherwise specified.
+The pages and documents in this repository were developed by Jordan Bemmels (jbemmels@umich.edu) unless otherwise specified.
 
 # Data
 
