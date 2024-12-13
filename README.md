@@ -1,6 +1,6 @@
 This repository contains custom scripts and files for the manuscript:
 
-Bemmels, JB, S Starko, BL Weigel, K Hirabayashi, A Pinch, C Elphinstone, MN Dethier, LH Rieseberg, JE Page, CJ Neufeld, GL Owens. 2025. Population genomics reveals strong impacts of genetic drift without purging and guides conservation of bull and giant kelp. <i>Current Biology</i>, in press.
+Bemmels, J.B., S. Starko, B.L. Weigel, K. Hirabayashi, A. Pinch, C. Elphinstone, M.N. Dethier, L.H. Rieseberg, J.E. Page, C.J. Neufeld, G.L. Owens. 2025. Population genomics reveals strong impacts of genetic drift without purging and guides conservation of bull and giant kelp. <i>Current Biology</i>, in press.
 
 There was no substantial new program or software developed for this manuscript; rather, the focus of this repository is providing a few data files and several simple scripts to demonstrate calculations, as a supplement to the verbal explanations in the manuscript and manuscript supplementary info.
 
